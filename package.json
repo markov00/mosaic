@@ -1,6 +1,12 @@
 {
     "name": "mosaic",
+    "author": "Marco Vettorello <vettorello.marco@gmail.com>",
     "description": "Mosaic - Map bounding box to PNG",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/markov00/mosaic.git"
+    },
+    "license": "MIT",
     "version": "0.0.1",
     "private": false,
     "dependencies": {
